@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.jumbotron {
+  margin: 20px;
+  background-image: url(https://cdn.mos.cms.futurecdn.net/ivpWgQCxLVcsnc57NBJeja-650-80.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.form-control {
+  display: inline-block;
+  width: 145px;
+}
+
+table {
+  table-layout: fixed;
+  background-color: black;
+  color: white;
+}
